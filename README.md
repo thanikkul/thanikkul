@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanikkul&label=Profile%20views&color=0e75b6&style=flat" alt="thanikkul" /> </p>
 
-- 🌱 I’m currently learning **Database , Network**
+- 🌱 I’m currently learning **SOC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanikkul?tab=repositories](https://github.com/thanikkul?tab=repositories)
 
