@@ -1,7 +1,7 @@
 [![MasterHead](https://media3.giphy.com/media/4QTRR1Dhxp3zi/giphy.gif?cid=ecf05e47utzfg8r1s1iuk51pckputs2sykw56jzurnhj3x3d&rid=giphy.gif&ct=g)](https://rishavchanda.io)
 <h1 align="left">Hi 👋, I'm THANIKKUL PROMSREE</h1>
 <h3 align="left">A Student Computer Engineer Faculty Engineering of Naresuan University</h3>
-<img align="right" alt="Coding" width="250" src=<a href="https://www.picz.in.th/image/ybHgbR"><img src="https://sv1.picz.in.th/images/2023/05/02/ybHgbR.th.jpg" alt="ybHgbR.jpg" border="0" /></a>
+<img align="right" width="250" src=<a href="https://www.picz.in.th/image/ybHgbR"><img src="https://sv1.picz.in.th/images/2023/05/02/ybHgbR.th.jpg" alt="ybHgbR.jpg" border="0" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanikkul&label=Profile%20views&color=0e75b6&style=flat" alt="thanikkul" /> </p>
 
