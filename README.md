@@ -4,7 +4,7 @@
 <img align="right" width="250" src="https://sv1.picz.in.th/images/2023/05/02/ybHgbR.th.jpg" />
 
 
-/////<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanikkul&label=Profile%20views&color=0e75b6&style=flat" alt="thanikkul" /> </p>/////
+*********<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanikkul&label=Profile%20views&color=0e75b6&style=flat" alt="thanikkul" /> </p>*********
 
 - 🌱 I’m currently learning **SOC**
 
