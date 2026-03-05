@@ -1,6 +1,6 @@
 [![MasterHead](https://media3.giphy.com/media/4QTRR1Dhxp3zi/giphy.gif?cid=ecf05e47utzfg8r1s1iuk51pckputs2sykw56jzurnhj3x3d&rid=giphy.gif&ct=g)](https://rishavchanda.io)
 <h1 align="left">Hi 👋, I'm THANIKKUL PROMSREE</h1>
-<h3 align="left">Computer Engineer Faculty Engineering of Naresuan University</h3>
+<h3 align="left">BOY</h3>
 <img align="right" width="250" src="https://sv1.picz.in.th/images/2023/05/02/ybHgbR.th.jpg" />
 
 
